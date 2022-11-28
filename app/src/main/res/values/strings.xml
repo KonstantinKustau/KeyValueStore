@@ -1,3 +1,18 @@
 <resources>
+
     <string name="app_name">KeyValueStore</string>
+
+    <string name="command_line">Command Line</string>
+    <string name="command_window">Window</string>
+    <string name="please_enter_the_command">please enter the command</string>
+    <string name="command_does_not_exist">command does not exist</string>
+    <string name="key_not_set">key not set</string>
+    <string name="no_such_value">value does not exist</string>
+    <string name="values_not_found">values not found</string>
+    <string name="no_transaction">no transaction</string>
+    <string name="deleted">deleted</string>
+    <string name="added">added</string>
+    <string name="last_transaction_removed">last transaction removed</string>
+    <string name="last_transaction_committed">last transaction committed</string>
+
 </resources>
